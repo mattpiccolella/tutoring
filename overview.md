@@ -25,7 +25,7 @@ Common programming languages used for the back-end are:
 -	Python
 
 ### Front-End
-*Front-end* normally means anything that the user sees and interests with. This can be classified in two parts:
+*Front-end* normally means anything that the user sees and interacts with. This can be classified in two parts:
 -	Design
 -	Development
 
